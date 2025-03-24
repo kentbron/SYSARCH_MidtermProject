@@ -1,0 +1,60 @@
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.csproj.AssemblyReference.cache
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.College.resources
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.Department.resources
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.Properties.Resources.resources
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.csproj.GenerateResource.cache
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+D:\ACTIVITIES\SYSARCH\University\bin\Debug\University.exe.config
+D:\ACTIVITIES\SYSARCH\University\bin\Debug\University.exe
+D:\ACTIVITIES\SYSARCH\University\bin\Debug\University.pdb
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.exe
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.pdb
+D:\ACTIVITIES\SYSARCH\University\obj\Debug\University.Menu.resources
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\bin\Debug\University.exe.config
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\bin\Debug\University.exe
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\bin\Debug\University.pdb
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.csproj.AssemblyReference.cache
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.College.resources
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.Department.resources
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.Menu.resources
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.Properties.Resources.resources
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.csproj.GenerateResource.cache
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.exe
+D:\3rd year - 2nd sem\mga act\MGA ACTIVITIES\University\obj\Debug\University.pdb
+C:\MGA ACTIVITIES\University\bin\Debug\University.exe.config
+C:\MGA ACTIVITIES\University\bin\Debug\University.exe
+C:\MGA ACTIVITIES\University\bin\Debug\University.pdb
+C:\MGA ACTIVITIES\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\MGA ACTIVITIES\University\obj\Debug\University.College.resources
+C:\MGA ACTIVITIES\University\obj\Debug\University.Department.resources
+C:\MGA ACTIVITIES\University\obj\Debug\University.Menu.resources
+C:\MGA ACTIVITIES\University\obj\Debug\University.Properties.Resources.resources
+C:\MGA ACTIVITIES\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\MGA ACTIVITIES\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\MGA ACTIVITIES\University\obj\Debug\University.exe
+C:\MGA ACTIVITIES\University\obj\Debug\University.pdb
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\bin\Debug\University.exe.config
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\bin\Debug\University.exe
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\bin\Debug\University.pdb
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.College.resources
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.Department.resources
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.Menu.resources
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.exe
+C:\Users\Keny\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.pdb
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\bin\Debug\University.exe.config
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\bin\Debug\University.exe
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\bin\Debug\University.pdb
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.College.resources
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.Department.resources
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.Menu.resources
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.exe
+C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.pdb
