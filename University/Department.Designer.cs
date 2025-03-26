@@ -46,6 +46,7 @@
             this.txtDeptID = new System.Windows.Forms.TextBox();
             this.chkIsActive = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDepartments)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -258,6 +259,16 @@
             this.label4.TabIndex = 13;
             this.label4.Text = "Dept. Code";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(315, 6);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(281, 46);
+            this.label3.TabIndex = 33;
+            this.label3.Text = "DEPARMENT";
+            // 
             // Department
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -265,6 +276,7 @@
             this.AutoSize = true;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(878, 698);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnRead);
             this.Controls.Add(this.btnUpdate);
@@ -280,6 +292,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -300,5 +313,6 @@
         private System.Windows.Forms.TextBox txtDeptID;
         private System.Windows.Forms.Button btn_Back;
         private System.Windows.Forms.ComboBox cmbCollege;
+        private System.Windows.Forms.Label label3;
     }
 }
