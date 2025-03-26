@@ -148,7 +148,7 @@ namespace University
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error updating data: {ex.Message}", "There is a Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Error updating data: {ex.Message}", "DATABASE ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
