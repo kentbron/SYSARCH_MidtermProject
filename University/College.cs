@@ -8,6 +8,7 @@ namespace University
 {
     public partial class College : Form
     {
+        //connection
         private string connString = "Server=MSI\\SQLEXPRESS;Database=CollegeDatabase;Trusted_Connection=True;";
 
 
@@ -141,7 +142,7 @@ namespace University
                         cmd.ExecuteNonQuery();
                     }
                 }
-
+                //fix error handling
                 MessageBox.Show("College updated successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 LoadColleges();
                 ClearFields();
