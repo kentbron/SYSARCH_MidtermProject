@@ -58,3 +58,15 @@ C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\Unive
 C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.csproj.CoreCompileInputs.cache
 C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.exe
 C:\Users\Keny\Desktop\University-20250227T140743Z-001\University\obj\Debug\University.pdb
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\bin\Debug\University.exe.config
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\bin\Debug\University.exe
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\bin\Debug\University.pdb
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.College.resources
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.Department.resources
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.Menu.resources
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.exe
+C:\Users\Keny\Desktop\Midterm Project\SYSARCH_MidtermProject\University\obj\Debug\University.pdb

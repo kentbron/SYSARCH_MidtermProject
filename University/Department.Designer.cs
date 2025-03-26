@@ -39,13 +39,13 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btn_Back = new System.Windows.Forms.Button();
             this.txtDeptCode = new System.Windows.Forms.TextBox();
+            this.cmbCollege = new System.Windows.Forms.ComboBox();
             this.txtDeptName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txtDeptID = new System.Windows.Forms.TextBox();
             this.chkIsActive = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.cmbCollege = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDepartments)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -181,6 +181,17 @@
             this.txtDeptCode.Size = new System.Drawing.Size(268, 26);
             this.txtDeptCode.TabIndex = 9;
             // 
+            // cmbCollege
+            // 
+            this.cmbCollege.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbCollege.FormattingEnabled = true;
+            this.cmbCollege.Location = new System.Drawing.Point(498, 69);
+            this.cmbCollege.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbCollege.Name = "cmbCollege";
+            this.cmbCollege.Size = new System.Drawing.Size(268, 28);
+            this.cmbCollege.TabIndex = 31;
+            this.cmbCollege.SelectedIndexChanged += new System.EventHandler(this.cmbCollege_SelectedIndexChanged);
+            // 
             // txtDeptName
             // 
             this.txtDeptName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -247,24 +258,13 @@
             this.label4.TabIndex = 13;
             this.label4.Text = "Dept. Code";
             // 
-            // cmbCollege
-            // 
-            this.cmbCollege.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cmbCollege.FormattingEnabled = true;
-            this.cmbCollege.Location = new System.Drawing.Point(498, 69);
-            this.cmbCollege.Margin = new System.Windows.Forms.Padding(4);
-            this.cmbCollege.Name = "cmbCollege";
-            this.cmbCollege.Size = new System.Drawing.Size(268, 28);
-            this.cmbCollege.TabIndex = 31;
-            this.cmbCollege.SelectedIndexChanged += new System.EventHandler(this.cmbCollege_SelectedIndexChanged);
-            // 
             // Department
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ClientSize = new System.Drawing.Size(841, 698);
+            this.ClientSize = new System.Drawing.Size(878, 698);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnRead);
             this.Controls.Add(this.btnUpdate);
